@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP-Connection-Wait-Client", "TCP-Connection-Wait-Client\TCP-Connection-Wait-Client.csproj", "{5BC68C9C-0A3A-4248-AEB1-B24DD6594136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP-Connection-Wait-Server", "TCP-Connection-Wait-Server\TCP-Connection-Wait-Server.csproj", "{F1861531-4D7C-4874-80C0-4D973DDF7BFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BC68C9C-0A3A-4248-AEB1-B24DD6594136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC68C9C-0A3A-4248-AEB1-B24DD6594136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC68C9C-0A3A-4248-AEB1-B24DD6594136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC68C9C-0A3A-4248-AEB1-B24DD6594136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1861531-4D7C-4874-80C0-4D973DDF7BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1861531-4D7C-4874-80C0-4D973DDF7BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1861531-4D7C-4874-80C0-4D973DDF7BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1861531-4D7C-4874-80C0-4D973DDF7BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70115026-8273-44CD-A295-A674306C9795}
+	EndGlobalSection
+EndGlobal
